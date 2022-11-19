@@ -6,11 +6,11 @@ The game is very simple and intuitive. This is what the **menu page** looks like
 
  
 
-![Screenshot from 2022-11-19 18-32-13.png](https://ibb.co/Lg74F3D)
+![Screenshot from 2022-11-19 18-32-13.png](https://i.ibb.co/ZgDyj0R/Screenshot-from-2022-11-19-18-24-26.png)
 
 Upon pressing the **Start a Game** button, the page will update and the game grid will be displayed.
 
-![Screenshot from 2022-11-19 18-21-56.png](https://ibb.co/FJBNxCw)
+![Screenshot from 2022-11-19 18-21-56.png](https://i.ibb.co/q9RXyVs/Screenshot-from-2022-11-19-18-21-56.png)
 
 You can now start pressing letters on your keyboard for 5-letter words. Press enter to confirm a word or press backspace to remove a single letter. 
 
@@ -22,11 +22,11 @@ You can now start pressing letters on your keyboard for 5-letter words. Press en
 
 Once your **guess is right**, the page will be updated
 
-![Screenshot from 2022-11-19 18-32-02.png](https://ibb.co/sqttZbt)
+![Screenshot from 2022-11-19 18-32-02.png](https://i.ibb.co/L1vv3Yv/Screenshot-from-2022-11-19-18-32-02.png)
 
 However, if you do not manage to guess the right word within 6 attempts, you will lose, and the updated page will look as follows
 
-![Screenshot from 2022-11-19 18-27-41.png](https://ibb.co/G928rpQ)
+![Screenshot from 2022-11-19 18-27-41.png](https://i.ibb.co/r36zX02/Screenshot-from-2022-11-19-18-27-41.png)
 
 At this point, you are welcome to press the **Arrow-Path** icon and start a new game
 
